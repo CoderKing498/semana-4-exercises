@@ -1,0 +1,11 @@
+{
+  "usuarios": [
+    { "id": 1, "nombre": "Ana",   "email": "ana@mail.com",  "edad": 28 },
+    { "id": 2, "nombre": "Luis",  "email": "luis@mail.com", "edad": 34 },
+    { "id": 3, "nombre": "Marta", "email": "marta@mail.com","edad": 22 }
+  ],
+  "productos": [
+    { "id": 1, "nombre": "Laptop", "precio": 1200, "stock": 5  },
+    { "id": 2, "nombre": "Mouse",  "precio": 25,   "stock": 40 }
+  ]
+}
