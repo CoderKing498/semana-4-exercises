@@ -1,5 +1,5 @@
 
-const url = "http://localhost:3005/"
+const url = "http://localhost:3000/"
 const usuario = document.getElementById("usuario")
 const email = document.getElementById("email")
 const edad = document.getElementById("edad")
